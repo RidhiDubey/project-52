@@ -1,0 +1,90 @@
+
+
+h1 {
+    margin-left: 550px;
+    color:rgb(27, 26, 26);
+   font-size:300% ;
+}
+
+head{
+    height:200;
+    padding: 100px;
+   
+    justify-content: space-evenly;
+}
+
+.header{
+    
+    background-image: url("https://shop.paperkawaii.com/wp-content/uploads/2017/12/christmas-origami-paper-03.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px 1000px;
+    
+
+}
+
+.firstHeader{
+    display: flex;
+    justify-content: space-between;
+}
+.intro{
+    
+    font-size: 30px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.design{
+    border: solid;
+}
+h3{
+    text-align: center;
+    color:rgb(27, 26, 26);
+}
+h2{
+    color:rgb(24, 38, 70);
+}
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: black;
+}
+.design{
+    position: relative;
+    margin-left:50px;
+}
+
+.design p{
+    position: relative;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    
+    opacity:0;
+}
+
+.design:hover p{
+    opacity:1;
+    
+}
+.design:hover p{
+    opacity:1;
+    
+}
+.design:hover p{
+    opacity:1;
+    
+}
+.design:hover p{
+    opacity:1;
+    
+}
+.design:hover img{
+    opacity:0.33;
+}
